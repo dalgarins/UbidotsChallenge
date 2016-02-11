@@ -1,5 +1,9 @@
 package com.mycompany.challenge;
 
+/**
+ * Informacion basica del cubo, su posicion y su valor
+ * @author NoaD
+ */
 public class Cube {
     
     private int x;
